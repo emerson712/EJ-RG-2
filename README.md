@@ -1,11 +1,20 @@
-# EJ-RG-2
-Este es un ejemplo de repositorio creado desde Github
-# Mi proyecto 
-Este es un proyecto de prueba 
-Auctor: Emerson Quiñones 
-## Descripción 
-Aquí iría la descripción del proyecto
-## Comandos
-Este es un ejemplo para colocar comandos en el README
-```bash
-git status
+# Suma de Tres Números 
+este proyecto realiza una suma de tres numeros ingresados por el usuario 
+## Descripción
+El programa solocita tres numeros el usurio los ingresea y
+luego el programa muestra la suma de los tres numeros en pantalla 
+## Pasos de insatalascion 
+-Descarga este repositorio desde Github
+-Abre el archivo main.py en un editor de codigo como Visual Studio Code
+-Por ultimo ejecuta el programa 
+##Ejemplo de codigo en P
+print("Programa para sumar tres números")
+num1 = float(input("ingresa el primer número:"))
+num2 = float(input("ingresa el segundo número:"))
+num3 = float(input("ingresa el tercer número:"))
+
+suma = num1 + num2 + num3
+
+print ("La suma total es": {suma})
+
+## Enlace de mi perfil 

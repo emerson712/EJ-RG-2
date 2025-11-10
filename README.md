@@ -7,7 +7,7 @@ luego el programa muestra la suma de los tres numeros en pantalla
 -Descarga este repositorio desde Github
 -Abre el archivo main.py en un editor de codigo como Visual Studio Code
 -Por ultimo ejecuta el programa 
-##Ejemplo de codigo en P
+## Ejemplo de codigo en Python
 print("Programa para sumar tres números")
 num1 = float(input("ingresa el primer número:"))
 num2 = float(input("ingresa el segundo número:"))

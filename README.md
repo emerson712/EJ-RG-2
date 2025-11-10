@@ -9,6 +9,7 @@ luego el programa muestra la suma de los tres numeros en pantalla
 -Por ultimo ejecuta el programa 
 ## Ejemplo de codigo en Python
 print("Programa para sumar tres números")
+
 num1 = float(input("ingresa el primer número:"))
 
 num2 = float(input("ingresa el segundo número:"))

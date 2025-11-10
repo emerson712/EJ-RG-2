@@ -5,9 +5,13 @@ El programa solocita tres numeros el usurio los ingresea y
 luego el programa muestra la suma de los tres numeros en pantalla 
 ## Pasos de insatalascion 
 -Descarga este repositorio desde Github
+
 -Abre el archivo main.py en un editor de codigo como Visual Studio Code
+
 -Por ultimo ejecuta el programa 
+
 ## Ejemplo de codigo en Python
+
 print("Programa para sumar tres números")
 
 num1 = float(input("ingresa el primer número:"))
